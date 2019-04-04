@@ -1,0 +1,11 @@
+SMAP
+deletenotice_jsp.java
+JSP
+*S JSP
+*F
++ 0 deletenotice.jsp
+faculty/deletenotice.jsp
+*L
+1,5:48
+5,30:52
+*E
